@@ -14,12 +14,7 @@ Our work addresses this gap by developing and evaluating a cross-lingual approac
 If you use this code or refer to our work, please cite:
 
 ```bibtex
-@inproceedings{crosslingualalzheimers2025,
-  title={Cross-lingual Alzheimer's Detection},
-  author={Your Name and Collaborators},
-  booktitle={Conference Name},
-  year={2025}
-}
+TBD
 ```
 
 ## License
